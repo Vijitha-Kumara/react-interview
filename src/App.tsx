@@ -5,7 +5,7 @@ function App() {
   return (
     <>
       <Counter />
-      <Greeting name={'Good morning'} city={'Matale"'} />
+      <Greeting name={"Good morning"} city={"Matale"} />
     </>
   );
 }
